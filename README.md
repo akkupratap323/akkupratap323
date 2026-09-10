@@ -69,6 +69,6 @@ Real-time multi-persona Voice AI platform with 1–1.5-second end-to-end latency
 
 ## Connect
 
-[Portfolio](YOUR_NOTION_LINK) ·
+[Portfolio](https://app.notion.com/p/MY-Software-engineer-Portfolio-3abedccb93bb80259bb9c15f6ec84e4f) ·
 [LinkedIn](https://www.linkedin.com/in/aditya-pratap-singh-524a70283/) ·
 [Email](mailto:akkupratap323@gmail.com)
