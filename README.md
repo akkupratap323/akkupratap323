@@ -47,57 +47,40 @@
 | **Intake & Booking Agent** | Voice agent for customer intake and appointment booking. | [Demo ↗](https://intake-demo.nesterlabs.com/) |
 | **ImpactVolunteer** | Additional web product work. | [Visit ↗](https://impactvolunteer.com/) |
 
-## Selected AI Projects
+## Open-Source Contributions
+
+![Merged PRs](https://img.shields.io/badge/Merged_PRs-10-22C55E?style=for-the-badge&logo=github)
+![Projects](https://img.shields.io/badge/Public_Projects-6-2563EB?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+
+| Open-source project | Contribution | Merged pull requests |
+|:---|:---|:---:|
+| **[OpenTelemetry JS](https://github.com/open-telemetry/opentelemetry-js)** | Fixed optimized XPath propagation in browser trace instrumentation. | [#6335](https://github.com/open-telemetry/opentelemetry-js/pull/6335) |
+| **[Soup](https://github.com/MakazhanAlpamys/Soup)** | Improved dataset validation and terminal plotting; added DPO/GRPO recipes for Qwen3.6 27B, MiniMax M3, and Mistral Large 3. | [#858](https://github.com/MakazhanAlpamys/Soup/pull/858) · [#860](https://github.com/MakazhanAlpamys/Soup/pull/860) · [#933](https://github.com/MakazhanAlpamys/Soup/pull/933) · [#1015](https://github.com/MakazhanAlpamys/Soup/pull/1015) |
+| **[Orval](https://github.com/orval-labs/orval)** | Added JSON5 package-manifest support and pinned its parser dependency. | [#4080](https://github.com/orval-labs/orval/pull/4080) · [#4081](https://github.com/orval-labs/orval/pull/4081) |
+| **[Repowise](https://github.com/repowise-dev/repowise)** | Prevented generation progress from rendering outside the 0–100% range. | [#2224](https://github.com/repowise-dev/repowise/pull/2224) |
+| **[Agent Swarm](https://github.com/desplega-ai/agent-swarm)** | Added coverage that keeps provider credentials, pricing, and Docker registration synchronized. | [#1428](https://github.com/desplega-ai/agent-swarm/pull/1428) |
+| **[Draw.io Skill](https://github.com/Agents365-ai/drawio-skill)** | Added an AsyncAPI importer for editable architecture diagrams. | [#127](https://github.com/Agents365-ai/drawio-skill/pull/127) |
+
+## Open-Source Projects
 
 ### 🦞 Clawspan — Personal AI Chief of Staff
 
-Built from scratch in Python: a voice-driven assistant for terminal tasks, GitHub, AWS checks, research, Gmail, and Calendar. Uses Pipecat for voice I/O and macOS automation for tool execution.
-
-**Highlights**
-
-- Coordinates **8+ specialized agents** across engineering and productivity workflows.
-- Connects to GitHub, Gmail, Slack, PostgreSQL, Calendar, terminal, and AWS tooling.
-- Uses a three-tier router to resolve common requests without unnecessary LLM calls.
-- Hand-written orchestration without LangChain, CrewAI, or another agent framework.
+Voice-first assistant built from scratch in Python, coordinating 8+ agents across terminal, GitHub, AWS, Gmail, Calendar, and research workflows.
 
 [![Repository](https://img.shields.io/badge/Repository-Clawspan-181717?style=for-the-badge&logo=github)](https://github.com/akkupratap323/Clawspan)
 [![Watch Demo](https://img.shields.io/badge/LinkedIn-Watch_Demo-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/feed/update/urn:li:activity:7450145933335429121/)
 
----
-
 ### 🎯 Lookalike Search — Reasoning Beyond Embeddings
 
-Built a reasoning and reranking layer over openFunnel's public API, improving average Precision@100 by **17.6 percentage points across seven hard benchmark seeds**.
-
-The key insight: embeddings measure textual closeness, not categorical sameness. A company that services a vendor may describe itself using the vendor's language and appear closer than the vendor's real competitors.
-
-```text
-Overfetch 250 candidates → filter with code → classify relationship → rerank → replay judge
-```
-
-| Benchmark seed | Before | After |
-|:---|---:|---:|
-| Veeva | 58.5 | **88.5** |
-| Nubank | 50.0 | **81.5** |
-| Shopify | 74.5 | **94.0** |
-
-The system uses DeepSeek for reranking and the benchmark's own OpenAI judge for evaluation. Code, prompts, runs, and **700 judge rationales** are published with a three-command reproduction path.
+Reasoning and reranking layer that improved average Precision@100 by **17.6 points** across seven hard seeds, backed by reproducible benchmark evidence.
 
 [![Repository](https://img.shields.io/badge/Repository-Lookalike_Rerank-181717?style=for-the-badge&logo=github)](https://github.com/akkupratap323/lookalike-rerank)
 [![Project Breakdown](https://img.shields.io/badge/LinkedIn-Project_Breakdown-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/feed/update/urn:li:activity:7480513716380246016/)
-[![Code, Proofs & Runs](https://img.shields.io/badge/Evidence-Code%2C_Proofs_%26_Runs-059669?style=for-the-badge)](https://lnkd.in/d8wGX2Ni)
-
----
+[![Proofs & Runs](https://img.shields.io/badge/Evidence-Proofs_%26_Runs-059669?style=for-the-badge)](https://lnkd.in/d8wGX2Ni)
 
 ### 🧠 Manus Decoded — Agent Architecture Analysis
 
-An independent nine-layer analysis of Manus's architecture, drawing on public technical material and hands-on usage. The work explores why the harness matters more than the underlying model.
-
-- **Sub-agents isolate context** instead of playing fictional personas.
-- **Wide Research** runs 100+ general-purpose agents in parallel.
-- **Memory uses files**, glob, and grep instead of requiring a vector database.
-- **KV-cache hit rate** is treated as a first-class cost and latency metric.
-- **Failures remain in context**, preserving evidence for the next attempt.
+Nine-layer reverse engineering of Manus covering context isolation, parallel agents, file-based memory, KV-cache efficiency, and failure handling.
 
 [![Repository](https://img.shields.io/badge/Repository-Manus_Decoded-181717?style=for-the-badge&logo=github)](https://github.com/akkupratap323/manus-decoded)
 [![Read Breakdown](https://img.shields.io/badge/LinkedIn-Read_the_Breakdown-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/feed/update/urn:li:activity:7464798973388619776/)
