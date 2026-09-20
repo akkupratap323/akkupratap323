@@ -34,7 +34,8 @@ I work across AI product architecture, backend systems, tool integrations, evalu
 | **Saient** | Multi-channel AI sales agents across voice, messaging, email, and web. | [Website ↗](https://saientai.xyz/) |
 | **nForge** | Voice-agent testing with simulated callers, adversarial probes, and regression evaluations. | [Live ↗](https://nforge.nesterlabs.com/) |
 | **nGuard** | AI security and agent red-teaming platform. | [Live ↗](http://nguard.nesterlabs.com/) |
-| **Voice & Intake Agents** | Production conversational AI for customer interaction, intake, and booking. | [Voice demo](https://ai.nesterlabs.com/) · [Intake demo](https://intake-demo.nesterlabs.com/) |
+| **Production Voice Agent** | Built at Nester Labs for natural, real-time customer conversations. | [Live demo ↗](https://ai.nesterlabs.com/) |
+| **Intake & Booking Agent** | Built at Nester Labs to automate customer intake and appointment booking through voice. | [Live demo ↗](https://intake-demo.nesterlabs.com/) |
 
 ## Open-Source Contributions
 
