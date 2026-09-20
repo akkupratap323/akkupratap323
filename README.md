@@ -49,6 +49,43 @@ Contributions merged across observability, AI infrastructure, developer tooling,
 | **[Agent Swarm](https://github.com/desplega-ai/agent-swarm)** | Added tests that keep provider credentials, pricing, and Docker registration synchronized. | [#1428](https://github.com/desplega-ai/agent-swarm/pull/1428) |
 | **[Draw.io Skill](https://github.com/Agents365-ai/drawio-skill)** | Added an AsyncAPI importer for editable architecture diagrams. | [#127](https://github.com/Agents365-ai/drawio-skill/pull/127) |
 
+## Organizations I've Contributed To
+
+<table>
+  <tr>
+    <td align="center" width="160">
+      <a href="https://github.com/open-telemetry">
+        <img src="https://github.com/open-telemetry.png?size=80" width="64" alt="OpenTelemetry" /><br />
+        <strong>OpenTelemetry</strong>
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/orval-labs">
+        <img src="https://github.com/orval-labs.png?size=80" width="64" alt="Orval Labs" /><br />
+        <strong>Orval Labs</strong>
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/repowise-dev">
+        <img src="https://github.com/repowise-dev.png?size=80" width="64" alt="Repowise" /><br />
+        <strong>Repowise</strong>
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/desplega-ai">
+        <img src="https://github.com/desplega-ai.png?size=80" width="64" alt="Desplega AI" /><br />
+        <strong>Desplega AI</strong>
+      </a>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/Agents365-ai">
+        <img src="https://github.com/Agents365-ai.png?size=80" width="64" alt="Agents365 AI" /><br />
+        <strong>Agents365 AI</strong>
+      </a>
+    </td>
+  </tr>
+</table>
+
 ## Selected Open-Source Projects
 
 | Project | What it does | Links |
