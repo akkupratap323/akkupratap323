@@ -118,7 +118,7 @@ Contributions merged across observability, AI infrastructure, developer tooling,
 | **Multi-Agent Orchestration** | Built an eight-agent system connected to GitHub, Gmail, Slack, PostgreSQL, and other tools. | [Watch demo ↗](https://www.linkedin.com/feed/update/urn:li:activity:7429348815134081024/) |
 | **Featured in Inc42** | OpenClaw work featured in *The New Garage: OpenClaw And India's DIY AI Agent Boom*. | [View feature ↗](https://www.linkedin.com/feed/update/urn:li:activity:7436780050890522624/) |
 | **Voice AI Engineering** | Wrote about engineering a more natural production voice stack. | [Read article ↗](https://medium.com/@aditya_32007/solving-the-empathy-cost-paradox-how-we-engineered-the-voice-ai-stack-to-feel-human-d7ef19c1bc5d) |
-| **Competitive Programming** | Ranked 8th in the Unstop Coding Challenge and 1861 globally in LeetCode Biweekly Contest 153. | — |
+| **Competitive Programming** | Ranked 8th in the Unstop Coding Challenge and 1861 globally in LeetCode Biweekly Contest 153. | [LeetCode profile ↗](https://leetcode.com/u/adityarajput0/) |
 
 ---
 
