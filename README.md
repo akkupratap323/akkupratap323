@@ -32,8 +32,8 @@ I work across AI product architecture, backend systems, tool integrations, evalu
 |:---|:---|:---:|
 | **Verly AI** | Voice agents, chatbots, product architecture, and MCP integrations. | [Website ↗](https://verlyai.xyz/) |
 | **Saient** | Multi-channel AI sales agents across voice, messaging, email, and web. | [Website ↗](https://saientai.xyz/) |
-| **nForge** | Voice-agent testing with simulated callers, adversarial probes, and regression evaluations. | [Live ↗](https://nforge.nesterlabs.com/) |
-| **nGuard** | AI security and agent red-teaming platform. | [Live ↗](http://nguard.nesterlabs.com/) |
+| **nForge** | Built at Nester Labs to test voice agents with simulated callers, adversarial probes, and regression evaluations. | [Live ↗](https://nforge.nesterlabs.com/) |
+| **nGuard** | Built at Nester Labs for AI security, agent red-teaming, and adversarial testing. | [Live ↗](http://nguard.nesterlabs.com/) |
 | **Production Voice Agent** | Built at Nester Labs for natural, real-time customer conversations. | [Live demo ↗](https://ai.nesterlabs.com/) |
 | **Intake & Booking Agent** | Built at Nester Labs to automate customer intake and appointment booking through voice. | [Live demo ↗](https://intake-demo.nesterlabs.com/) |
 
