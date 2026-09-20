@@ -1,14 +1,31 @@
 <div align="center">
 
-# Aditya Pratap Singh
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:2563EB,100:06B6D4&height=190&section=header&text=Aditya%20Pratap%20Singh&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=AI%20Systems%20Engineer%20%E2%80%A2%20Founder%20%E2%80%A2%20Open-Source%20Contributor&descAlignY=57&descSize=17" alt="Aditya Pratap Singh — AI Systems Engineer" />
 
-### AI Systems Engineer · Founder · Open-Source Contributor
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+production+AI+agents;Engineering+real-time+voice+systems;Designing+evaluation+and+safety+infrastructure" alt="Animated introduction" />
+</a>
 
-I build production AI agents, real-time voice systems, and evaluation infrastructure.
+<p>
+  <a href="https://www.linkedin.com/in/aditya-pratap-singh-524a70283/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:akkupratap323@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://drive.google.com/file/d/1icdG8Bms8uVvxiEvH0_NEgzbGIEH8EqW/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View-7C3AED?style=flat-square&logo=googledrive&logoColor=white" alt="Resume" /></a>
+  <a href="https://saientai.xyz/"><img src="https://img.shields.io/badge/Portfolio-Explore-0891B2?style=flat-square&logo=safari&logoColor=white" alt="Portfolio" /></a>
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/aditya-pratap-singh-524a70283/) · [Email](mailto:akkupratap323@gmail.com) · [Resume](https://drive.google.com/file/d/1icdG8Bms8uVvxiEvH0_NEgzbGIEH8EqW/view?usp=sharing) · [Portfolio](https://saientai.xyz/)
+Building reliable AI systems for real users, tools, and production constraints.
 
 </div>
+
+## Production Work
+
+| Product | Focus | Explore |
+|:---|:---|:---:|
+| **Verly AI** | Voice agents, chatbots, product architecture, and MCP integrations. | [Website ↗](https://verlyai.xyz/) |
+| **Saient** | Multi-channel AI sales agents across voice, messaging, email, and web. | [Website ↗](https://saientai.xyz/) |
+| **nForge** | Voice-agent testing with simulated callers, adversarial probes, and regression evaluations. | [Live ↗](https://nforge.nesterlabs.com/) |
+| **nGuard** | AI security and agent red-teaming platform. | [Live ↗](http://nguard.nesterlabs.com/) |
+| **Voice & Intake Agents** | Production conversational AI for customer interaction, intake, and booking. | [Voice demo](https://ai.nesterlabs.com/) · [Intake demo](https://intake-demo.nesterlabs.com/) |
 
 ## About
 
@@ -39,16 +56,6 @@ Contributions merged across observability, AI infrastructure, developer tooling,
 | **Clawspan** | Voice-first personal AI chief of staff coordinating specialized agents across developer and productivity tools. | [Code](https://github.com/akkupratap323/Clawspan) · [Demo](https://www.linkedin.com/feed/update/urn:li:activity:7450145933335429121/) |
 | **Lookalike Search** | Reasoning and reranking system for difficult entity-search cases, backed by reproducible evaluation runs. | [Code](https://github.com/akkupratap323/lookalike-rerank) · [Breakdown](https://www.linkedin.com/feed/update/urn:li:activity:7480513716380246016/) |
 | **Manus Decoded** | Technical analysis of agent architecture, context isolation, parallel execution, memory, caching, and failure handling. | [Code](https://github.com/akkupratap323/manus-decoded) · [Breakdown](https://www.linkedin.com/feed/update/urn:li:activity:7464798973388619776/) |
-
-## Production Work
-
-| Product | Focus | Link |
-|:---|:---|:---:|
-| **Verly AI** | Voice agents, chatbots, product architecture, and MCP integrations. | [Website](https://verlyai.xyz/) |
-| **Saient** | Multi-channel AI sales agents across voice, messaging, email, and web. | [Website](https://saientai.xyz/) |
-| **nForge** | Voice-agent testing with simulated callers, adversarial probes, and regression evaluations. | [Live](https://nforge.nesterlabs.com/) |
-| **nGuard** | AI security and agent red-teaming platform. | [Live](http://nguard.nesterlabs.com/) |
-| **Voice & Intake Agents** | Production conversational AI for customer interaction, intake, and booking. | [Voice demo](https://ai.nesterlabs.com/) · [Intake demo](https://intake-demo.nesterlabs.com/) |
 
 ## Engineering Focus
 
@@ -81,5 +88,9 @@ Contributions merged across observability, AI infrastructure, developer tooling,
 Building reliable AI systems that work with real tools, users, and latency constraints.
 
 **[Start a conversation on LinkedIn](https://www.linkedin.com/in/aditya-pratap-singh-524a70283/)** · **[Send an email](mailto:akkupratap323@gmail.com)**
+
+<br />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,55:2563EB,100:0F172A&height=90&section=footer" alt="Profile footer" />
 
 </div>
