@@ -130,6 +130,14 @@ Building reliable AI systems that work with real tools, users, and latency const
 
 <br />
 
+<a href="https://github.com/akkupratap323">
+  <img src="https://img.shields.io/badge/Longest_GitHub_Streak-12_days-F97316?style=for-the-badge&logo=github&logoColor=white" alt="Longest GitHub contribution streak: 12 days" />
+</a>
+
+<sub>February 1–12, 2026</sub>
+
+<br />
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,55:2563EB,100:0F172A&height=90&section=footer" alt="Profile footer" />
 
 </div>
