@@ -19,21 +19,12 @@
 
 ## About Me
 
-> **I build production AI products end-to-end — from architecture and backend systems to integrations, evaluations, deployment, and product iteration.**
+> **I build production AI products end-to-end, from architecture and backend systems to integrations, evaluations, deployment, and product iteration.**
 
-- **Co-founder, [Verly AI](https://verlyai.xyz/)** — product architecture, voice and chatbot engines, and MCP integrations.
-- **Founder, [Saient](https://saientai.xyz/)** — multi-channel AI sales agents across voice, WhatsApp, email, and web.
-- **Previously AI Engineering Intern, Nester Labs** — voice-agent evaluation, AI security, and production conversational systems.
+- **Co-founder, [Verly AI](https://verlyai.xyz/)** - product architecture, voice and chatbot engines, and MCP integrations.
+- **Founder, [Saient](https://saientai.xyz/)** - multi-channel AI sales agents across voice, WhatsApp, email, and web.
+- **Previously AI Engineering Intern, Nester Labs** - voice-agent evaluation, AI security, and production conversational systems.
 - **IIIT Nagpur, Electronics & Communication Engineering.**
-- Open to **Applied AI** and **Forward Deployed Engineering** opportunities.
-
-<div align="center">
-
-| `+17.6` Precision@100 | `8+` specialized agents | Real-time voice AI | Reproducible evaluations |
-|:---:|:---:|:---:|:---:|
-| Lookalike reranking uplift | Tool-connected orchestration | Streaming STT → LLM → TTS | Byte-exact judge replay |
-
-</div>
 
 ## Production Products & Live Demos
 
@@ -96,73 +87,18 @@ Nine-layer reverse engineering of Manus covering context isolation, parallel age
 
 ## Technical Stack
 
-<div align="center">
-
-[![Core technologies](https://skillicons.dev/icons?i=python,js,ts,c,cpp,fastapi,django,nodejs,express,react,nextjs,redux,tailwind,html,css,postgres,mongodb,supabase,firebase,aws,git,github&perline=11)](https://skillicons.dev)
-
-</div>
-
-<details open>
-<summary><b>Programming, web, and backend</b></summary>
+<details>
+<summary><b>View technical stack</b></summary>
 <br />
 
-**Programming Languages**<br />
-Python · JavaScript · TypeScript · C · C++
-
-**Backend & APIs**<br />
-FastAPI · Django · Node.js · Express.js · REST APIs · WebSockets · SSE · API Integrations
-
-**Frontend & Full-Stack**<br />
-React · Next.js · Redux · Tailwind CSS · HTML · CSS · Server-Side Rendering
+| Area | Technologies |
+|:---|:---|
+| **AI agents & evaluation** | LLM orchestration, MCP, tool calling, RAG, agent handoffs, LLM-as-judge, adversarial and regression testing |
+| **Voice & real-time AI** | Pipecat, Deepgram, Cartesia, OpenAI Realtime, Twilio Media Streams, streaming STT/TTS, Silero VAD |
+| **Backend & product** | Python, TypeScript, FastAPI, Django, Node.js, React, Next.js, PostgreSQL, MongoDB, WebSockets, SSE |
+| **Infrastructure & observability** | AWS, Docker, GitHub Actions, OpenTelemetry, Langfuse, Prometheus, Qdrant, Neo4j, OpenSearch |
 
 </details>
-
-<details open>
-<summary><b>AI, agents, voice, and evaluation</b></summary>
-<br />
-
-**AI & Agentic Systems**<br />
-LLM Integration · Multi-Agent Orchestration · RAG Pipelines · MCP · Tool Calling · Prompt Engineering · Context Management · Agent Handoffs · Human-in-the-Loop Workflows
-
-**Voice AI & Real-Time Systems**<br />
-Pipecat · Deepgram · Cartesia · DeepSeek · Twilio Media Streams · OpenAI Realtime · Streaming STT/TTS · Silero VAD · SmartTurn · Dynamic Voice Switching
-
-**Evaluation & AI Safety**<br />
-LLM-as-Judge · Behavioral Testing · Adversarial Testing · Prompt-Injection Probes · Guardrail Evaluation · Transcript Assertions · Regression Testing · Latency Analysis
-
-</details>
-
-<details open>
-<summary><b>Data, cloud, automation, and engineering foundations</b></summary>
-<br />
-
-**Databases & Authentication**<br />
-PostgreSQL · MongoDB · Supabase · Firebase Authentication
-
-**Cloud & Developer Tools**<br />
-AWS · Git · GitHub · Docker · GitHub Actions · CLI Development · Deployment · Production Debugging
-
-**Automation & Integrations**<br />
-OpenClaw · PyAutoGUI · AppleScript · GitHub · Gmail · Slack · Calendar Integrations
-
-**Observability & Memory**<br />
-OpenTelemetry · Langfuse · Prometheus · Mem0 · Graphiti · Qdrant · Neo4j · OpenSearch
-
-**Core Engineering**<br />
-Data Structures & Algorithms · Object-Oriented Programming · DBMS · Computer Networks · System Architecture · High-Level Design
-
-</details>
-
-## GitHub Activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=akkupratap323&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Aditya's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akkupratap323&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Aditya's top languages" />
-
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=akkupratap323&theme=tokyo-night&hide_border=true&area=true" alt="Aditya's contribution graph" />
-
-</div>
 
 ## Let's Build
 
