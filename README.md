@@ -17,6 +17,15 @@ Building reliable AI systems for real users, tools, and production constraints.
 
 </div>
 
+## About
+
+I work across AI product architecture, backend systems, tool integrations, evaluations, deployment, and product iteration.
+
+- Co-founder of **[Verly AI](https://verlyai.xyz/)**, building voice and chatbot engines with MCP integrations.
+- Founder of **[Saient](https://saientai.xyz/)**, a multi-channel AI sales platform across voice, WhatsApp, email, and web.
+- Previously an **AI Engineering Intern at Nester Labs**, working on voice-agent evaluation, AI security, and production conversational systems.
+- Electronics & Communication Engineering at **IIIT Nagpur**.
+
 ## Production Work
 
 | Product | Focus | Explore |
@@ -26,15 +35,6 @@ Building reliable AI systems for real users, tools, and production constraints.
 | **nForge** | Voice-agent testing with simulated callers, adversarial probes, and regression evaluations. | [Live ↗](https://nforge.nesterlabs.com/) |
 | **nGuard** | AI security and agent red-teaming platform. | [Live ↗](http://nguard.nesterlabs.com/) |
 | **Voice & Intake Agents** | Production conversational AI for customer interaction, intake, and booking. | [Voice demo](https://ai.nesterlabs.com/) · [Intake demo](https://intake-demo.nesterlabs.com/) |
-
-## About
-
-I work across AI product architecture, backend systems, tool integrations, evaluations, deployment, and product iteration.
-
-- Co-founder of **[Verly AI](https://verlyai.xyz/)**, building voice and chatbot engines with MCP integrations.
-- Founder of **[Saient](https://saientai.xyz/)**, a multi-channel AI sales platform across voice, WhatsApp, email, and web.
-- Previously an **AI Engineering Intern at Nester Labs**, working on voice-agent evaluation, AI security, and production conversational systems.
-- Electronics & Communication Engineering at **IIIT Nagpur**.
 
 ## Open-Source Contributions
 
