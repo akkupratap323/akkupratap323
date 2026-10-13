@@ -44,11 +44,22 @@ Contributions merged across observability, AI infrastructure, developer tooling,
 | Project | Contribution | Pull requests |
 |:---|:---|:---:|
 | **[OpenTelemetry JS](https://github.com/open-telemetry/opentelemetry-js)** | Fixed optimized XPath propagation in browser trace instrumentation. | [#6335](https://github.com/open-telemetry/opentelemetry-js/pull/6335) |
-| **[Soup](https://github.com/MakazhanAlpamys/Soup)** | Improved dataset validation and terminal plotting; added reproducible model-training recipes. | [#858](https://github.com/MakazhanAlpamys/Soup/pull/858) · [#860](https://github.com/MakazhanAlpamys/Soup/pull/860) · [#933](https://github.com/MakazhanAlpamys/Soup/pull/933) · [#1015](https://github.com/MakazhanAlpamys/Soup/pull/1015) |
+| **[Soup](https://github.com/MakazhanAlpamys/Soup)** | **8 merged PRs** across live canary routing and rollback, efficient outcome persistence, notebook migration, config diagnostics, dataset validation, and training recipes. | [#1791](https://github.com/MakazhanAlpamys/Soup/pull/1791) · [#1712](https://github.com/MakazhanAlpamys/Soup/pull/1712) · [#1711](https://github.com/MakazhanAlpamys/Soup/pull/1711) · [#1104](https://github.com/MakazhanAlpamys/Soup/pull/1104) · [#1015](https://github.com/MakazhanAlpamys/Soup/pull/1015) · [#933](https://github.com/MakazhanAlpamys/Soup/pull/933) · [#860](https://github.com/MakazhanAlpamys/Soup/pull/860) · [#858](https://github.com/MakazhanAlpamys/Soup/pull/858) |
 | **[Orval](https://github.com/orval-labs/orval)** | Added JSON5 package-manifest support and pinned its parser dependency. | [#4080](https://github.com/orval-labs/orval/pull/4080) · [#4081](https://github.com/orval-labs/orval/pull/4081) |
 | **[Repowise](https://github.com/repowise-dev/repowise)** | Kept generation progress within the valid 0–100% range. | [#2224](https://github.com/repowise-dev/repowise/pull/2224) |
 | **[Agent Swarm](https://github.com/desplega-ai/agent-swarm)** | Added tests that keep provider credentials, pricing, and Docker registration synchronized. | [#1428](https://github.com/desplega-ai/agent-swarm/pull/1428) |
 | **[Draw.io Skill](https://github.com/Agents365-ai/drawio-skill)** | Added an AsyncAPI importer for editable architecture diagrams. | [#127](https://github.com/Agents365-ai/drawio-skill/pull/127) |
+
+### Soup · How I approach reliability problems
+
+Reproduce the failure through the real execution path, fix the responsible layer, and add a regression that fails when the fix is removed. Keep the change focused, explain its limits, and follow it through review and CI.
+
+| Problem | Approach & result | Merged work |
+|:---|:---|:---:|
+| **A rollout policy did not control live traffic.** | Wired request routing and rollback into the serving path, then cached policy reads and batched outcome writes while preserving outage and rollback safeguards. | [#1104](https://github.com/MakazhanAlpamys/Soup/pull/1104) · [#1712](https://github.com/MakazhanAlpamys/Soup/pull/1712) |
+| **Notebook migration picked the wrong training config.** | Followed the final trainer's actual arguments instead of the last config call. Task, output and hyperparameters now stay consistent even with warm-up stages or unused configs. | [#1711](https://github.com/MakazhanAlpamys/Soup/pull/1711) |
+| **Config diagnostics warned about harmless defaults.** | Read defaults from the Pydantic schema, preserved valid zero-valued seeds, and removed unreachable warnings. Full YAML dumps now agree with minimal configs; a mutation-tested regression pins the rule. | [#1791](https://github.com/MakazhanAlpamys/Soup/pull/1791) |
+| **Invalid data and recipe assumptions reached users.** | Made validation fail when no rows are usable, fixed terminal rendering, and added DPO/GRPO recipes with public model IDs checked through the library's resolver. | [#858](https://github.com/MakazhanAlpamys/Soup/pull/858) · [#860](https://github.com/MakazhanAlpamys/Soup/pull/860) · [#933](https://github.com/MakazhanAlpamys/Soup/pull/933) · [#1015](https://github.com/MakazhanAlpamys/Soup/pull/1015) |
 
 ## Organizations I've Contributed To
 
