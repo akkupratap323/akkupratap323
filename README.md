@@ -21,8 +21,8 @@ Building reliable AI systems for real users, tools, and production constraints.
 
 I work across AI product architecture, backend systems, tool integrations, evaluations, deployment, and product iteration.
 
+- Founder of **[Saient](https://saientai.xyz/)**, an AI agent platform that gives clinics and small businesses ready-to-hire agent teams on phone, WhatsApp, SMS, email, and website chat, with one shared memory and people in control.
 - Co-founder of **[Verly AI](https://verlyai.xyz/)**, building voice and chatbot engines with MCP integrations.
-- Founder of **[Saient](https://saientai.xyz/)**, a multi-channel AI sales platform across voice, WhatsApp, email, and web.
 - Previously an **AI Engineering Intern at Nester Labs**, working on voice-agent evaluation, AI security, and production conversational systems.
 - Electronics & Communication Engineering at **IIIT Nagpur**.
 
@@ -30,8 +30,8 @@ I work across AI product architecture, backend systems, tool integrations, evalu
 
 | Product | Focus | Explore |
 |:---|:---|:---:|
+| **Saient** | AI agent teams, built solo end to end: a LangGraph agent runtime, an event-driven FastAPI backend, real-time voice agents, a public API with CRM integrations, and a Next.js app, deployed on AWS. | [Website ↗](https://saientai.xyz/) |
 | **Verly AI** | Voice agents, chatbots, product architecture, and MCP integrations. | [Website ↗](https://verlyai.xyz/) |
-| **Saient** | Multi-channel AI sales agents across voice, messaging, email, and web. | [Website ↗](https://saientai.xyz/) |
 | **nForge** | Built at Nester Labs to test voice agents with simulated callers, adversarial probes, and regression evaluations. | [Live ↗](https://nforge.nesterlabs.com/) |
 | **nGuard** | Built at Nester Labs for AI security, agent red-teaming, and adversarial testing. | [Live ↗](http://nguard.nesterlabs.com/) |
 | **Production Voice Agent** | Built at Nester Labs for natural, real-time customer conversations. | [Live demo ↗](https://ai.nesterlabs.com/) |
